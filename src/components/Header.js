@@ -10,7 +10,7 @@ const Header= ()=>{
                     <img src="/images/logo.svg" class="logo-disney"></img> 
             </div>  
             <div class="menu-list">
-                    <a>
+                    <a href="/">
                         <img src="images/home-icon.svg"></img>
                         <span>HOME</span>
                     </a>
